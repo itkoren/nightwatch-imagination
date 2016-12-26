@@ -1,0 +1,27 @@
+{
+  "name": "nightwatch-imagination",
+  "version": "0.0.1",
+  "description": "A plugin for NightwatchJS which allows CSS Regression tests",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "node_modules/.bin/eslint lib"
+  },
+  "author": {
+      "name": "Itai Koren",
+      "email": "itkoren@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "eyes.images": "0.0.37",
+    "eyes.selenium": "0.0.53",
+    "fs-extra": "^0.26.2",
+    "gm": "^1.21.1",
+    "minimist": "^1.2.0",
+    "nightwatch": "^0.9.9",
+    "node-resemble-v2": "^1.0.0"
+  },
+  "engines": {},
+  "devDependencies": {
+    "eslint": "^3.11.1"
+  }
+}
