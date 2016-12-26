@@ -41,5 +41,6 @@ module.exports = {
 
 ## Why use this tool?
 
-nightwatch-imagination leverages NightwatchJS (Webdriver &rarr; Selenium) so you can compare screenshots from multiple browser types.
+**nightwatch-imagination** leverages NightwatchJS (Webdriver &rarr; Selenium) so you can compare screenshots from multiple browser types.
+
 Screenshot comparison can be managed and performed locally or using remote management of screenshots baselines and comparisons using [aplitools](https://applitools.com/)
