@@ -3,6 +3,16 @@
   "version": "0.0.2",
   "description": "A plugin for NightwatchJS which allows CSS Regression tests",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:itkoren/nightwatch-imagination.git"
+  },
+  "keywords": [
+      "nightwatch",
+      "regression",
+      "images",
+      "aplitools"
+  ],
   "scripts": {
     "lint": "node_modules/.bin/eslint lib"
   },
